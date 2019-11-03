@@ -111,7 +111,7 @@ input{
     .btnS{
         height: 60px;
         width:60px;
-        background: url(/images/Icon_Study.png);
+        background: url(../images/Icon_Study.png);
         background-repeat: no-repeat;
         background-position: center;
         border: none;
@@ -126,7 +126,7 @@ input{
       .btnR{
         height: 60px;
         width:60px;
-        background: url(/images/Icon_Repository.png);
+        background: url(../images/Icon_Repository.png);
         background-repeat: no-repeat;
         background-position: center;
         border: none;
@@ -140,7 +140,7 @@ input{
       .btnSe{
         height: 60px;
         width:60px;
-        background: url(/images/Icon_Setting.png);
+        background: url(../images/Icon_Setting.png);
         background-repeat: no-repeat;
         background-position: center;
         border: none;
