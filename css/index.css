@@ -95,7 +95,7 @@ input{
   .btnD{
       height: 60px;
       width:60px;
-      background: url(/images/icon_Dictionary.png);
+      background: url(../images/icon_Dictionary.png);
       background-repeat: no-repeat;
       background-position: center;
       border: none;
