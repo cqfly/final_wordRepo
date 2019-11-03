@@ -14,7 +14,7 @@ p{
 
 .main {
     width: 375px;
-    height: 812px;
+    height: 715px;
     margin: 0;
     background-image: url(/images/bg.png);
     background-repeat: no-repeat;
@@ -29,8 +29,13 @@ p{
     padding-top:114px;
 }
 
-.footer {
+.bottom{
     width: 375px;
     height: 97px;
     background-color: #2a4e8b;
+  }
+
+  .button{
+      color:white;
+      
   }
